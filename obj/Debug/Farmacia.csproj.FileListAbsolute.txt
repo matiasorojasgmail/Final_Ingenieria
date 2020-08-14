@@ -1,0 +1,175 @@
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\bin\Debug\MVVMApplication.exe.config
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\bin\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\bin\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\MainWindow.baml
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\View\AccionesView.baml
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\View\EditarOCrearView.baml
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\View\Lista.baml
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\MainWindow.g.cs
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\View\AccionesView.g.cs
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\View\EditarOCrearView.g.cs
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\View\Lista.g.cs
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\App.g.cs
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\MVVMApplication_Content.g.cs
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\MVVMApplication_MarkupCompile.cache
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\MVVMApplication_MarkupCompile.lref
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\MVVMApplication.g.resources
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\MVVMApplication.Properties.Resources.resources
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Original\DiariosYRevistas_MVVM - Funcionando\obj\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Original\Farmacia\bin\Debug\MVVMApplication.exe.config
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Original\Farmacia\bin\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Original\Farmacia\bin\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\MainWindow.g.cs
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\View\AccionesView.g.cs
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\View\EditarOCrearView.g.cs
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\View\Lista.g.cs
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\App.g.cs
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\MVVMApplication_Content.g.cs
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.cache
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.lref
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\MainWindow.baml
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\View\AccionesView.baml
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\View\EditarOCrearView.baml
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\View\Lista.baml
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\MVVMApplication.g.resources
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\MVVMApplication.Properties.Resources.resources
+C:\Users\MRojas\Desktop\Original\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\bin\Debug\MVVMApplication.exe.config
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\MainWindow.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\View\AccionesView.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\View\EditarOCrearView.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\View\Lista.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\App.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\MVVMApplication_Content.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.cache
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.lref
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\MainWindow.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\View\AccionesView.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\View\EditarOCrearView.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\View\Lista.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\MVVMApplication.g.resources
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\bin\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\bin\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\MVVMApplication.Properties.Resources.resources
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\Iconos\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\bin\Debug\MVVMApplication.exe.config
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\bin\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\bin\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\MainWindow.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\View\AccionesView.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\View\EditarOCrearView.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\View\Lista.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\App.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\MVVMApplication_Content.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.cache
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.lref
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\MainWindow.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\View\AccionesView.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\View\EditarOCrearView.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\View\Lista.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\MVVMApplication.g.resources
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\MVVMApplication.Properties.Resources.resources
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentar\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\bin\Debug\MVVMApplication.exe.config
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\bin\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\bin\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\MainWindow.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\View\AccionesView.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\View\EditarOCrearView.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\View\Lista.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\App.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication_Content.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.cache
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.lref
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\MainWindow.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\View\AccionesView.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\View\EditarOCrearView.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\View\Lista.baml
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication.g.resources
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication.Properties.Resources.resources
+C:\Users\MRojas\Desktop\Final Ingenieria de Software\FinalPresentarMejorado\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\bin\Debug\MVVMApplication.exe.config
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\bin\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\bin\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\MainWindow.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\View\AccionesView.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\View\EditarOCrearView.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\View\Lista.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\App.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication_Content.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.cache
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.lref
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\MainWindow.baml
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\View\AccionesView.baml
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\View\EditarOCrearView.baml
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\View\Lista.baml
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication.g.resources
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\MVVMApplication.Properties.Resources.resources
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejorado\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\bin\Debug\MVVMApplication.exe.config
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\bin\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\bin\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\MainWindow.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\View\AccionesView.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\View\EditarOCrearView.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\View\Lista.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\App.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\MVVMApplication_Content.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.cache
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.lref
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\MainWindow.baml
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\View\AccionesView.baml
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\View\EditarOCrearView.baml
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\View\Lista.baml
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\MVVMApplication.g.resources
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\MVVMApplication.Properties.Resources.resources
+C:\Users\MRojas\Desktop\Finales Julio 2020\Ingenieria\FinalPresentarMejoradook\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\bin\Debug\MVVMApplication.exe.config
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\bin\Debug\MVVMApplication.exe
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\bin\Debug\MVVMApplication.pdb
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csprojResolveAssemblyReference.cache
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\MainWindow.g.cs
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\View\AccionesView.g.cs
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\View\EditarOCrearView.g.cs
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\View\Lista.g.cs
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\App.g.cs
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\MVVMApplication_Content.g.cs
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.cache
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\MVVMApplication_MarkupCompile.lref
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\MainWindow.baml
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\View\AccionesView.baml
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\View\EditarOCrearView.baml
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\View\Lista.baml
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\MVVMApplication.g.resources
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\MVVMApplication.Properties.Resources.resources
+C:\Users\MRojas\Desktop\Farmacia\Farmacia\obj\Debug\Farmacia.csproj.GenerateResource.Cache

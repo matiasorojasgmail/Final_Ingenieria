@@ -1,0 +1,38 @@
+﻿<UserControl x:Class="MVVMApplication.View.EditarOCrearView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:System="clr-namespace:System;assembly=mscorlib"
+             xmlns:Infra="clr-namespace:MVVMApplication.Infra"
+             xmlns:local="clr-namespace:MVVMApplication.View"
+             mc:Ignorable="d" d:DesignWidth="520" Height="111.364">
+    <Grid Margin="0,0,0,43">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="160"></ColumnDefinition>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="160"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.Column="0" Text="Medicamento" TextAlignment="Center" VerticalAlignment="Bottom" Margin="10,0,0,23"/>
+        <TextBlock Grid.Row="0" Grid.Column="2" Text="Descripcion" TextAlignment="Center" VerticalAlignment="Bottom" Margin="20,0,0,23"></TextBlock>
+        <TextBlock Grid.Column="0" Text="Precio" TextAlignment="Center" VerticalAlignment="Bottom" Margin="10,0,0,34" Grid.Row="1"/>
+        <TextBlock Grid.Column="2" Text="Proveedor" TextAlignment="Center" VerticalAlignment="Bottom" Margin="20,0,0,34" Grid.Row="1"/>
+
+        <TextBox Grid.Row="0" Grid.Column="1" Text="{Binding SelectedProducto.Nombre}" TextAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,21"></TextBox>
+        <TextBox Grid.Row="0" Grid.Column="3" Text="{Binding SelectedProducto.Descripcion}" TextAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,21"></TextBox>
+        <TextBox Grid.Row="1" Grid.Column="1" Text="{Binding SelectedProducto.Precio_Venta}" TextAlignment="Center" VerticalAlignment="Bottom" Margin="0,0,0,33"></TextBox>
+        <ComboBox Grid.Column="3"
+                  VerticalContentAlignment="Center"
+                  VerticalAlignment="Bottom"
+                  SelectedValue="{Binding SelectedProducto.ProveedorId}"
+                  ItemsSource="{Binding ListaProveedores,Mode=OneTime}"
+                  DisplayMemberPath="Nombre"
+                  SelectedValuePath="Id" Margin="0,0,0,33" Grid.RowSpan="2"/>
+    </Grid>
+</UserControl>

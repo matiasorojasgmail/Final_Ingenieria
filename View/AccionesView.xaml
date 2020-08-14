@@ -1,0 +1,42 @@
+﻿<UserControl x:Class="MVVMApplication.View.AccionesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:MVVMApplication.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="60" d:DesignWidth="520">
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="Converter" />
+    </UserControl.Resources>
+    <Grid HorizontalAlignment="Center">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition Height="30"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="50"></ColumnDefinition>
+            <ColumnDefinition Width="50"></ColumnDefinition>
+            <ColumnDefinition Width="50"></ColumnDefinition>
+            <ColumnDefinition Width="50"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <!--<StackPanel Orientation="Horizontal">-->
+        <Button Grid.Row="0" Grid.Column="0"  Command="{Binding Add}" Visibility="{Binding Path=CanAdd, Mode=OneWay,Converter={StaticResource Converter}}" ToolTip="Agregar registro">
+            <Image Source="../Images/icons/add.png" Width="45" Height="25"></Image>
+        </Button>
+        <Button Grid.Row="0" Grid.Column="1" Command="{Binding Delete}" Visibility="{Binding Path=CanDelete, Mode=OneWay,Converter={StaticResource Converter}}" ToolTip="Eliminar el registro actual">
+            <Image Source="../Images/icons/delete.png" Width="46"></Image>
+        </Button>
+        <Button Grid.Row="0" Grid.Column="2" Visibility="{Binding Path=EditMode, Mode=OneWay,Converter={StaticResource Converter}}" Command="{Binding Save}" ToolTip="Guardar registro">
+            <Image Source="../Images/icons/save.png" VerticalAlignment="Bottom" Width="45"></Image>
+        </Button>
+        <Button Grid.Row="0" Grid.Column="3" Visibility="{Binding Path=EditMode, Mode=OneWay,Converter={StaticResource Converter}}" Command="{Binding CancelAction}" ToolTip="Cancelar acción">
+            <Image Source="../Images/icons/cancel.png" VerticalAlignment="Bottom" Width="45" Height="26"></Image>
+        </Button>
+        <Label Visibility="{Binding Path=CanAdd, Mode=OneWay,Converter={StaticResource Converter}}" Grid.Row="1" Grid.Column="0" Content="Agregar" HorizontalContentAlignment="Center" FontSize="10"></Label>
+        <Label Visibility="{Binding Path=CanDelete, Mode=OneWay,Converter={StaticResource Converter}}" Grid.Row="1" Grid.Column="1" Content="Eliminar" HorizontalContentAlignment="Center" FontSize="10"></Label>
+        <Label Visibility="{Binding Path=EditMode, Mode=OneWay,Converter={StaticResource Converter}}"  Grid.Row="1" Grid.Column="2" Content="Guardar" HorizontalContentAlignment="Center" FontSize="10"></Label>
+        <Label Visibility="{Binding Path=EditMode, Mode=OneWay,Converter={StaticResource Converter}}"  Grid.Row="1" Grid.Column="3" Content="Cancelar" HorizontalContentAlignment="Center" FontSize="10"></Label>
+        <!--</StackPanel>-->
+    </Grid>
+</UserControl>
